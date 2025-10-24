@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="es">
+<html >
 <head>
-    <meta charset="UTF-8">
     <title>Currículum de Rocio</title>
     <style>
         .fotos {
@@ -10,25 +9,6 @@
             flex-wrap: wrap;        
             justify-content: flex-start; 
         }       
-        .fotos img {
-            width: 150px;           
-            height: 150px;         
-            border-radius: 8px;    
-            object-fit: cover;     
-            display: block;        
-        }
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            line-height: 1.6;
-        }
-        h1, h2 {
-            color: #333;
-        }
-        ul {
-            list-style: disc;
-            margin-left: 20px;
-        }
     </style>
 </head>
 <body>
