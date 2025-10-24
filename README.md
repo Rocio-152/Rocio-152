@@ -14,9 +14,9 @@
             object-fit: cover;       
         }
     </style>
-    <h1>Hola, Soy Rocio!</h1>
 </head>
 <body>
+    <h1>Hola, Soy Rocio!</h1>
     <h1>Mi curriculum:</h1>
     <h2>Trayectoria:</h2>
     <op>
