@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html >
 <head>
-
+    
+    <title>Hola, Soy Rocio!</title>
 </head>
 <body>
-    <h1>Hola, soy Rocio!</h1>
     <br>
     <h1>Mi curriculum:</h1>
     <br>
