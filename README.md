@@ -1,11 +1,10 @@
 <!DOCTYPE html>
 <html >
 <head>
-    <title>Currículum de Rocio</title>
     <style>
         .fotos {
             display: flex;          
-            gap: 10px;              
+            gap: 20px;              
             flex-wrap: wrap;        
             justify-content: flex-start; 
         }       
