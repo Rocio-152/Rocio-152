@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html >
 <head>
+    <style>
+        .fotos {
+            display: flex;          
+            gap: 10px;              
+            flex-wrap: wrap;        
+        }
+        /* Estilo de las imágenes */
+        .fotos img {
+            width: 150px;            /* Tamaño fijo */
+            height: auto;            /* Mantiene proporción */
+            border-radius: 8px;      /* Bordes redondeados */
+            object-fit: cover;       /* Recorta si es necesario */
+        }
+    </style>
     <h1>Hola, Soy Rocio!</h1>
 </head>
 <body>
@@ -18,8 +32,12 @@
         <li>Programacion Competitiva.</li>
     </op>
     <h2>Lenguajes:</h2>
-    <img src ="https://logodix.com/logo/1137946.png" width="60" height="60"> <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="60" height="60"> <img src="https://th.bing.com/th/id/R.7494e83354e2662240d06630cc31f08d?rik=9tIRLZpYS9oTfQ&pid=ImgRaw&r=0" width ="60" height="60"><img src="https://th.bing.com/th/id/R.31039a53ab57f00b4eff33fb7bcfa2e8?rik=UIZQaEGUtXYHEA&pid=ImgRaw&r=0" widht="60" height="60"/> 
-   
+    <div class ="fotos">
+        <img src ="https://logodix.com/logo/1137946.png" width="60" height="60">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="60" height="60"> 
+        <img src="https://th.bing.com/th/id/R.7494e83354e2662240d06630cc31f08d?rik=9tIRLZpYS9oTfQ&pid=ImgRaw&r=0" width ="60" height="60">
+        <img src="https://th.bing.com/th/id/R.31039a53ab57f00b4eff33fb7bcfa2e8?rik=UIZQaEGUtXYHEA&pid=ImgRaw&r=0" widht="60" height="60"/> 
+    </div>
     
 </body>
 </html>
