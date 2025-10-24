@@ -7,12 +7,11 @@
             gap: 10px;              
             flex-wrap: wrap;        
         }
-        /* Estilo de las imágenes */
         .fotos img {
-            width: 150px;            /* Tamaño fijo */
-            height: auto;            /* Mantiene proporción */
-            border-radius: 8px;      /* Bordes redondeados */
-            object-fit: cover;       /* Recorta si es necesario */
+            width: 150px;           
+            height: auto;            
+            border-radius: 8px;      
+            object-fit: cover;       
         }
     </style>
     <h1>Hola, Soy Rocio!</h1>
