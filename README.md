@@ -4,7 +4,7 @@
     <style>
         .fotos {
             display: flex;          
-            gap: 20px;              
+            gap: 40px;              
             flex-wrap: wrap;        
             justify-content: flex-start; 
         }       
