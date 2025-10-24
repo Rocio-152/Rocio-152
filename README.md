@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html >
 <head>
-    
-    <title>Hola, Soy Rocio!</title>
+
 </head>
 <body>
-    <br>
+    <h1>Hola, Soy Rocio!<h1/>
     <h1>Mi curriculum:</h1>
-    <br>
     <h2>Trayectoria:</h2>
     <op>
         <li>Experiencia en concursos de programacion:
