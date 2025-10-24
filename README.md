@@ -1,16 +1,20 @@
-## Hi there 👋
-
-<!--
-**Rocio-152/Rocio-152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/0d71467b-7115-4ac3-911d-6254ab57e064" />
+<!DOCTYPE html>
+<html >
+<head>
+    
+    <title>Document</title>
+</head>
+<body>
+    <h1>My curriculum</h1>
+    <br>
+    <h2>Lenguajes:</h2>
+    <op>
+        <li>C++</li>
+        <li>Java</li>
+        <li>Python</li>
+    </op>
+    <h2>Trayectoria:</h2>
+    <p>Participante de concursos.</p>
+</body>
+</html>
