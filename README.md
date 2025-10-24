@@ -31,7 +31,7 @@
         <img src="https://logodix.com/logo/1137946.png" width="60" height="60">
         <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="60" height="60">
         <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="60" height="60">
-        <img src="https://tse2.mm.bing.net/th/id/OIP.cnhZQEgew78hTZWYkotTgAHaOH?rs=1&pid=ImgDetMain&o=7&rm=3" width="60" height="60">
+        <img src="https://icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" width="60" height="60">
       </div>
 </body>
 </html>
