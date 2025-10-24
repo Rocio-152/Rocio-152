@@ -1,41 +1,57 @@
 <!DOCTYPE html>
-<html >
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Currículum de Rocio</title>
     <style>
         .fotos {
             display: flex;          
             gap: 10px;              
             flex-wrap: wrap;        
-        }
+            justify-content: flex-start; 
+        }       
         .fotos img {
             width: 150px;           
-            height: auto;            
-            border-radius: 8px;      
-            object-fit: cover;       
+            height: 150px;         
+            border-radius: 8px;    
+            object-fit: cover;     
+            display: block;        
+        }
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        ul {
+            list-style: disc;
+            margin-left: 20px;
         }
     </style>
-
+</head>
 <body>
     <h1>Hola, Soy Rocio!</h1>
-    <h1>Mi curriculum:</h1>
+    <h2>Mi currículum:</h2>
     <h2>Trayectoria:</h2>
-    <op>
-        <li>Experiencia en concursos de programacion:
+    <ul>
+        <li>Experiencia en concursos de programación.</li>
         <li>Medalla de bronce en Copa UCI 2024.</li>
         <li>Medalla de plata en Concurso Provincial de Matanzas, Cuba.</li>
         <li>Medalla de bronce en Concurso Nacional de Cuba.</li>
-        <li>Estudiante en la carrera de ING. Informatica en la Universidad de Matanzas,Cuba.</li>
-    </op>
+        <li>Estudiante de Ingeniería Informática en la Universidad de Matanzas, Cuba.</li>
+    </ul>
     <h2>Conocimientos:</h2>
-    <op>
-        <li>Programacion Competitiva.</li>
-    </op>
+    <ul>
+        <li>Programación Competitiva.</li>
+    </ul>
     <h2>Lenguajes:</h2>
-    <div class ="fotos">
-        <img src ="https://logodix.com/logo/1137946.png" width="60" height="60">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="60" height="60"> 
-        <img src="https://th.bing.com/th/id/R.7494e83354e2662240d06630cc31f08d?rik=9tIRLZpYS9oTfQ&pid=ImgRaw&r=0" width ="60" height="60">
-        <img src="https://th.bing.com/th/id/R.31039a53ab57f00b4eff33fb7bcfa2e8?rik=UIZQaEGUtXYHEA&pid=ImgRaw&r=0" widht="60" height="60"/> 
+    <div class="fotos">
+        <img src="foto1.jpg" alt="Lenguaje 1">
+        <img src="foto2.jpg" alt="Lenguaje 2">
+        <img src="foto3.jpg" alt="Lenguaje 3">
+        <img src="foto4.jpg" alt="Lenguaje 4">
     </div>
-    
 </body>
 </html>
