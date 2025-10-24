@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html >
-<head>
     <style>
         .fotos {
             display: flex;          
@@ -14,7 +13,7 @@
             object-fit: cover;       
         }
     </style>
-</head>
+
 <body>
     <h1>Hola, Soy Rocio!</h1>
     <h1>Mi curriculum:</h1>
