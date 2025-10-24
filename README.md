@@ -28,10 +28,10 @@
     </ul>
     <h2>Lenguajes:</h2>
     <div class="fotos">
-        <img src="foto1.jpg" alt="Lenguaje 1">
-        <img src="foto2.jpg" alt="Lenguaje 2">
-        <img src="foto3.jpg" alt="Lenguaje 3">
-        <img src="foto4.jpg" alt="Lenguaje 4">
+        <img src="https://logodix.com/logo/1137946.png" alt="Lenguaje 1">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Lenguaje 2">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="Lenguaje 3">
+        <img src="https://tse2.mm.bing.net/th/id/OIP.cnhZQEgew78hTZWYkotTgAHaOH?rs=1&pid=ImgDetMain&o=7&rm=3" alt="Lenguaje 4">
     </div>
 </body>
 </html>
