@@ -1,6 +1,7 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
+    <title>Currículum de Rocío</title>
 </head>
 <body>
     <h1>Hola, Soy Rocio!</h1>
@@ -19,16 +20,16 @@
     </ul>
     <h2>Cualidades:</h2>
     <ul>
-       <li>Proactiva</li>
-       <li>Sociable</li>
-       <li>Trabajo en equipo</li>
+       <li>Proactiva.</li>
+       <li>Sociable.</li>
+       <li>Trabajo en equipo.</li>
     </ul>
     <h2>Lenguajes:</h2>
     <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: flex-start;">
-        <img src="https://logodix.com/logo/1137946.png" width="60" height="60">
-        <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="60" height="60">
-        <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="60" height="60">
-        <img src="https://icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" width="60" height="60">
+        <img src="https://logodix.com/logo/1137946.png" width="60" height="60" alt="C++">
+        <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" width="60" height="60" alt="Python">
+        <img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="60" height="60" alt="HTML">
+        <img src="https://icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" width="60" height="60" alt="Java">
     </div>
 </body>
 </html>
