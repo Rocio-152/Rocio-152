@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
-    <title>Currículum de Rocío</title>
+    
 </head>
 <body>
     <h1>Hola, Soy Rocio!</h1>
