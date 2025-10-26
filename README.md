@@ -6,7 +6,7 @@
             display: flex;          
             gap: 40px;              
             flex-wrap: wrap;        
-            justify-content: flex-start; 
+            justify-content: flex-start; /**/
         }       
     </style>
 </head>
