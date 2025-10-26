@@ -17,6 +17,12 @@
     <ul>
         <li>Programación Competitiva.</li>
     </ul>
+    <h2>Cualidades:</h2>
+    <ul>
+       <li>Proactiva</li>
+       <li>Sociable</li>
+       <li>Trabajo en equipo</li>
+    </ul>
     <h2>Lenguajes:</h2>
     <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: flex-start;">
         <img src="https://logodix.com/logo/1137946.png" width="60" height="60">
