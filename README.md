@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Currículum de Rocío</title>
 </head>
 <body style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; background-color: #f9f9f9;">
     <div style="background-color: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px;">
@@ -39,9 +38,7 @@
             <img src="https://icon-icons.com/icons2/2108/PNG/512/java_icon_130901.png" width="60" height="60" alt="Java" style="transition: transform 0.3s ease;">
         </div>
     </div>
-    <script>
-        // Añadir efecto hover a las imágenes
-        document.querySelectorAll('.fotos img').forEach(img => {
+    <script> document.querySelectorAll('.fotos img').forEach(img => {
             img.addEventListener('mouseover', function() {
                 this.style.transform = 'scale(1.1)';
             });
